@@ -1,0 +1,6 @@
+SOLVER TYPE= Intel Direct Sparse Solver
+Number of Equations (NEQ)=117153
+Number of Nodal points (NUMNP)=39231
+Number of Pseudo nodes (NUMPS)=0
+Number of Elements (NUME)=24154
+Number of Pseudo Elements (NUMP)=0
